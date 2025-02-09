@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Blender, SVG Export for Grease Pencil - v1.0 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.0" x="0px" y="0px" xmlns="http://www.w3.org/2000/svg" width="1235px" height="1233px" viewBox="0 0 1235 1233">
+	<g id="blender_frame_1">
+		<g id="blender_object_GPencil">
+			<!--Layer: GP_Layer-->
+			<g id="GP_Layer">
+				<polyline stroke="#CBCBCB" stroke-opacity="1" fill="none" stroke-linecap="round" stroke-width="11.0686035" points="1066.132446,1079.553711 1116.044678,1062.197876 1159.582275,1032.368164 1193.752930,992.146362 1216.231201,944.328979 1225.515381,892.220703 1221.021240,839.398315" />
+				<polyline stroke="#CBCBCB" stroke-opacity="1" fill="none" stroke-linecap="round" stroke-width="10.8112793" points="1073.916504,165.257324 1056.512939,117.077148 1027.153442,74.955933 987.862061,41.718506 941.314087,19.578003 890.653076,10.000000 839.285156,13.613159" />
+				<polyline stroke="#CBCBCB" stroke-opacity="1" fill="none" stroke-linecap="round" stroke-width="10.7805176" points="170.415649,148.542969 121.500488,165.173340 78.388184,193.714600 43.991882,232.267334 20.656616,278.256592 10.000000,328.592285 12.793945,379.868896" />
+				<polyline stroke="#CBCBCB" stroke-opacity="1" fill="none" stroke-linecap="round" stroke-width="11.0368652" points="141.183472,1059.788330 157.752563,1110.296631 186.789062,1154.713989 226.340454,1189.964233 273.709961,1213.589722 325.640991,1223.932983 378.545532,1220.262939" />
+			</g>
+		</g>
+	</g>
+</svg>
